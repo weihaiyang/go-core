@@ -1,4 +1,4 @@
-module github.com/go-admin-team/go-admin-core
+module github.com/weihaiyang/go-core
 
 go 1.18
 
