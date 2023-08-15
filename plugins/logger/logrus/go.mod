@@ -3,7 +3,7 @@ module github.com/weihaiyang/go-core/plugins/logger/logrus
 go 1.18
 
 require (
-	github.com/weihaiyang/go-core v0.0.0-20230815101419-7f8aab36e89b
+	github.com/weihaiyang/go-core v0.0.0-20230815102829-016270ea5e93
 	github.com/sirupsen/logrus v1.8.0
 )
 

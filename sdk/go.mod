@@ -8,8 +8,8 @@ require (
 	github.com/casbin/casbin/v2 v2.54.0
 	github.com/chanxuehong/wechat v0.0.0-20201110083048-0180211b69fd
 	github.com/gin-gonic/gin v1.7.7
-	github.com/weihaiyang/go-core v0.0.0-20230815101419-7f8aab36e89b
-	github.com/weihaiyang/go-core/plugins/logger/zap v0.0.0-20230815101419-7f8aab36e89b
+	github.com/weihaiyang/go-core v0.0.0-20230815102829-016270ea5e93
+	github.com/weihaiyang/go-core/plugins/logger/zap v0.0.0-20230815102829-016270ea5e93
 	github.com/go-admin-team/gorm-adapter/v3 v3.2.1-0.20210902112335-4148cb356a24
 	github.com/go-admin-team/redis-watcher/v2 v2.0.0-20221121052608-058cebff72c2
 	github.com/go-admin-team/redisqueue/v2 v2.0.0-20221119141731-97c556b0d5b7
